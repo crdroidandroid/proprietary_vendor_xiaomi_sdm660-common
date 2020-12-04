@@ -752,4 +752,5 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     vendor.qti.gnss@3.0-service \
-    WfdCommon
+    WfdCommon \
+    chargeonlymode
